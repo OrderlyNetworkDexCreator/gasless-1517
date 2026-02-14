@@ -99,6 +99,10 @@
   display: none !important;
 }
 
+.oui-fill-success-light {
+  display: none !important;
+}
+
 html, body {
   font-family: 'IBM Plex Sans', sans-serif !important;
   font-size: 15.5px !important;
